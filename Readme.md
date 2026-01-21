@@ -86,8 +86,8 @@ I'm a dedicated developer with a passion for building scalable applications and 
 
 - **Email:** mondonenmatvei@gmail.com
 
-- **GitHub** [yourportfolio.com](https://github.com/Kashevarshik/Kashevarshik.github.io)
+- **GitHub:** [yourportfolio.com](https://github.com/Kashevarshik/Kashevarshik.github.io)
 
-- **Telegram** @decompositional
+- **Telegram:** @decompositional
 
 ---
